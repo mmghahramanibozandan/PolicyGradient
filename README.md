@@ -47,3 +47,5 @@ will be to minimize the number of transitions in order to reach the goal state.
 The environment is implemented through a standard `step` function, with a specific
 label for the actions. The function does not return the next state but only updates its value as an inner variable
 of the class.
+![img](https://github.com/mmghahramanibozandan/PolicyGradient/img/download2.png)
+![img](https://github.com/mmghahramanibozandan/PolicyGradient/img/download3.png)
